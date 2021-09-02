@@ -1,3 +1,3 @@
 ### Selam 👋
-<p>Ben <a style="color:red;">Ufuk GÖKALP<a/> Backend yazılımcısıyım. Javascript,Node.js,Html,Css bilgilerim bulunmakta.</p>
+<p style="font-size: 45px;">Ben <a style="color:red;">Ufuk GÖKALP<a/> Backend yazılımcısıyım. Javascript,Node.js,Html,Css bilgilerim bulunmakta.</p>
 
